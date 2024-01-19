@@ -24,7 +24,7 @@ const About = () => {
                             </div>
                         </div>
 
-                        <div className="resume-btn"><a className="button" href="https://drive.google.com/file/d/1aE-6TSuIk-Fi3aY2X11wO7_Yruc4bgFt/view" target="_blank">
+                        <div className="resume-btn"><a className="button" href="https://drive.google.com/file/d/1aE-6TSuIk-Fi3aY2X11wO7_Yruc4bgFt/view" target="_blank" rel="noreferrer">
                             Resume <span><i className="fa-solid fa-paper-plane"></i></span>
                         </a></div>
                     </div>

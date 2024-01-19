@@ -18,7 +18,7 @@ const Header = () => {
                 <ul>
                     <li ><a href="#home" >Home</a></li>
                     <li ><a href="#about" >About</a></li>
-                    <li ><a href="https://drive.google.com/file/d/1aE-6TSuIk-Fi3aY2X11wO7_Yruc4bgFt/view?usp=drivesdk" target="_blank" >Resume</a></li>
+                    <li ><a href="https://drive.google.com/file/d/1aE-6TSuIk-Fi3aY2X11wO7_Yruc4bgFt/view?usp=drivesdk" target="_blank" rel="noreferrer">Resume</a></li>
                     <li ><a href="#projects">Projects</a></li>
                     <li ><a href="#contact" >Contact</a></li>
                     <li onClick={() => {
