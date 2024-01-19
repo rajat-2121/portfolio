@@ -24,8 +24,8 @@ function App() {
 
   const override = {
     "display": "flex",
-    "align-items": "center",
-    "justify-content": "center",
+    "alignItems": "center",
+    "justifyContent": "center",
 
   };
 

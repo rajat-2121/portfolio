@@ -57,7 +57,7 @@ const Home = () => {
                     className="scroll-down"
                     >
                         Scroll Down
-                        <i class="fas fa-arrow-down"></i>
+                        <i className="fas fa-arrow-down"></i>
                     </m.div>
                 </a>
             </div>

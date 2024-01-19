@@ -16,14 +16,14 @@ const Contact = () => {
         setIsSending(true);
     
         emailjs.sendForm(
-            process.env.EMAILJS_SERVICE_ID, 
-            process.env.EMAILJS_TEMPLATE_ID, 
+            process.env.REACT_APP_EMAILJS_SERVICE_ID, 
+            process.env.REACT_APP_EMAILJS_TEMPLATE_ID, 
             form.current,
-            process.env.EMAILJS_PUBLIC_KEY
+            process.env.REACT_APP_EMAILJS_PUBLIC_KEY
     )
-
+    
     .then((result) => {
-        toast.success('Message Send!', {
+        toast.success('Message Sent!', {
             position: "top-right",
             autoClose: 5000,
             hideProgressBar: true,
@@ -84,7 +84,7 @@ const Contact = () => {
                             </div>
 
                             <form className="contact-form" ref={form} onSubmit={sendEmail} >
-                                <div class="inputBox">
+                                <div className="inputBox">
                                     <input className="input-area" type="text" name="user_name" required="required" />
                                     <span>Name</span>
                                     <i></i>

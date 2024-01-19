@@ -39,11 +39,11 @@ const Header = () => {
                     </span>
 
                     <ul>
-                        <li onClick={handleChange}><a href="#home"><i class="fa-solid fa-house"></i>Home</a></li>
-                        <li onClick={handleChange}><a href="#about"><i class="fa-solid fa-user"></i>About</a></li>
-                        <li onClick={handleChange}><a href="https://drive.google.com/file/d/1aE-6TSuIk-Fi3aY2X11wO7_Yruc4bgFt/view?usp=drivesdk"><i class="fa-solid fa-user"></i>Resume</a></li>
-                        <li onClick={handleChange}><a href="#projects"><i class="fa-solid fa-briefcase"></i>Projects</a></li>
-                        <li onClick={handleChange}><a href="#contact"> <i class="fa-regular fa-id-badge"></i>Contact</a></li>
+                        <li onClick={handleChange}><a href="#home"><i className="fa-solid fa-house"></i>Home</a></li>
+                        <li onClick={handleChange}><a href="#about"><i className="fa-solid fa-user"></i>About</a></li>
+                        <li onClick={handleChange}><a href="https://drive.google.com/file/d/1aE-6TSuIk-Fi3aY2X11wO7_Yruc4bgFt/view?usp=drivesdk"><i className="fa-solid fa-user"></i>Resume</a></li>
+                        <li onClick={handleChange}><a href="#projects"><i className="fa-solid fa-briefcase"></i>Projects</a></li>
+                        <li onClick={handleChange}><a href="#contact"> <i className="fa-regular fa-id-badge"></i>Contact</a></li>
                     </ul>
                 </div>
 
