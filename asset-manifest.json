@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c34fd8b1.css",
+    "main.js": "/portfolio/static/js/main.21050184.js",
+    "static/media/blog.png": "/portfolio/static/media/blog.8ae630e415ace6956149.png",
+    "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.ca04b2a419b84d60374e.png",
+    "static/media/aboutme.png": "/portfolio/static/media/aboutme.08dafb499fa9adf95673.png",
+    "static/media/profile.jpg": "/portfolio/static/media/profile.ade94fd71cf987857cde.jpg",
+    "static/media/mongodb.png": "/portfolio/static/media/mongodb.4f7af09e6354d51beec8.png",
+    "static/media/react.png": "/portfolio/static/media/react.3c1cca491037897328d6.png",
+    "static/media/waving-hand.png": "/portfolio/static/media/waving-hand.1bae5fcfb51082b5c2b4.png",
+    "static/media/github.png": "/portfolio/static/media/github.0d190006bbd50b0681b5.png",
+    "static/media/redux.png": "/portfolio/static/media/redux.d171ebbdfb29ef0702ab.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.71da8e5dd61c2ff164f8.png",
+    "static/media/html.png": "/portfolio/static/media/html.5139eb66b02855a1c137.png",
+    "static/media/css.png": "/portfolio/static/media/css.5d3f585222f506795d53.png",
+    "static/media/js.png": "/portfolio/static/media/js.60dbbe1569571db1eda7.png",
+    "index.html": "/portfolio/index.html",
+    "main.c34fd8b1.css.map": "/portfolio/static/css/main.c34fd8b1.css.map",
+    "main.21050184.js.map": "/portfolio/static/js/main.21050184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c34fd8b1.css",
+    "static/js/main.21050184.js"
+  ]
+}
